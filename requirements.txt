@@ -4,5 +4,3 @@ numpy
 matplotlib
 seaborn
 kagglehub
-os
-subprocess, time, urllib.request
