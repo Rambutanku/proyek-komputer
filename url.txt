@@ -1,1 +1,1 @@
-https://[nama-aplikasi-anda].streamlit.app/
+https://proyek-komputer-hrzjtcebbqbffljmadpxgq.streamlit.app/
